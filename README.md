@@ -31,3 +31,5 @@ Want to run DevCompass locally? Follow these steps:
 ```bash
 git clone [https://github.com/yourusername/devcompass.git](https://github.com/yourusername/devcompass.git)
 cd devcompass
+npm install
+npm run dev```
